@@ -10,7 +10,7 @@
 
 ## Content
 
-* Misclassification-MCICJM.Rproj
+* Misclassification-ICJM.Rproj
 * [Rscript](#Rscript)
 * [Output](#Output)
 
